@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiteNoteOrganizer</string>
+    <string name="take_picture">Take picture</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_image">Add Image</string>
+    <string name="title_file">Add File</string>
+    <string name="title_note">Add Note</string>
+</resources>

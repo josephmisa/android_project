@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/open_camera"
+        android:title="@string/title_camera" />
+
+    <item
+        android:id="@+id/navigation_image"
+        android:icon="@drawable/add_image"
+        android:title="@string/title_image" />
+
+    <item
+        android:id="@+id/navigation_file"
+        android:icon="@drawable/add_file"
+        android:title="@string/title_file" />
+
+    <item
+        android:id="@+id/navigation_note"
+        android:icon="@drawable/add_note"
+        android:title="@string/title_note" />
+
+</menu>
